@@ -1,0 +1,35 @@
+{
+    "data": {
+        "store"     : "YI Nails & Spa",
+        "slug"      : "Yi-nails-spa",
+        "phone"     : "(770) 973-5955",
+        "email"     : "yinailspaga@gmail.com",
+        "address"   : "1100 Johnson Ferry Rd # 415, Marietta, Georgia 30062",
+        "time_1"    : "Mon - Sat: 10:00 AM - 07:30 PM",
+        "time_2"    : "Sun: 12:00 AM - 06:00 PM"
+        
+    },
+    "url":  {
+        "facebook"  :   "https://www.facebook.com/yinailsandspa",
+        "instagram" :   "https://www.instagram.com/yinailsspa",
+        "google"    :   "https://goo.gl/maps/FHcWv7p5sP2pdqai8",
+        "booking"   :   "https://www.facebook.com/yinailsandspa",
+        "maps"      :   "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3308.618523051436!2d-84.41719524871833!3d33.976643280531604!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88f50da226afc261%3A0x97f197a1eec4f5a2!2sYi%20Nails%20%26%20Spa!5e0!3m2!1sen!2s!4v1670322836353!5m2!1sen!2s"
+    },
+    "color": {
+        "primary"               :   "#d16c65",
+        "primary_light"         :   "#cbdfd2",
+        "primary_hover"         :   "#b25b54",
+        "secondary"             :   "#ffd86c",
+        "secondary_hover"       :   "#88BC3A",
+        "text_primary"          :   "#FFFFFF",
+        "text_primary_hover"    :   "#FFFFFF",
+        "text_secondary"        :   "#FFFFFF",
+        "text_secondary_hover"  :   "#FFFFFF",
+        "text_title"            :   "#429D64",
+        "text_title_hover"      :   "#90C73E"
+    },
+    "debug":    "on",
+    "path_image":   "img/",
+    "domain":       "http://127.0.0.1:5500/"
+}
